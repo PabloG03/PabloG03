@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Pablo</h1>
 <h3 align="center">A college student passionate about technology and software development. This repository is a space where I share projects, code, and learnings related to my journey as a student and aspiring developer.</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript and Blender**
+- 🌱 I’m currently learning **Java and JavaScript**
 
 - 📫 How to reach me **pablo03grp@gmail.com**
 
